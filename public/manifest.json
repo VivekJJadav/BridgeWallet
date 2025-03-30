@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "BridgeWallet",
+    "version": "1.0",
+    "description": "A bridge wallet for the multiple crypto networks",
+    "action": {
+      "default_popup": "index.html"
+    },
+    "permissions": ["storage"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]
+  }
