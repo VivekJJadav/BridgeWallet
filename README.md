@@ -178,6 +178,16 @@ bridge-wallet-extension/
 
 3. The built extension will be in the `dist/` directory
 
+   
+
+<img width="1440" alt="SS 2025-03-31 at 10 46 43" src="https://github.com/user-attachments/assets/5cad055f-67d1-4227-8e71-6119e5db043f" />
+<img width="1440" alt="SS 2025-03-31 at 10 46 36" src="https://github.com/user-attachments/assets/30aabd3a-209d-4352-9223-69e3011f801c" />
+<img width="1440" alt="SS 2025-03-31 at 10 46 48" src="https://github.com/user-attachments/assets/f5d16fc6-e4ae-4aad-bd49-c2ddff94af2f" />
+<img width="1440" alt="SS 2025-03-31 at 10 46 53" src="https://github.com/user-attachments/assets/8a24a8ca-77af-46be-8a0c-6b1eb5c8c859" />
+<img width="1440" alt="SS 2025-03-31 at 10 46 58" src="https://github.com/user-attachments/assets/f4d4c800-bf0d-420a-89ba-68a4fd7cf063" />
+<img width="1440" alt="SS 2025-03-31 at 10 47 01" src="https://github.com/user-attachments/assets/2dca9653-956d-4532-8a69-39325cf632cf" />
+
+
 ## Security
 
 - Private keys are encrypted and stored locally
